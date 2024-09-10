@@ -1,8 +1,7 @@
-# React + Vite
+Fullstack G-mail clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ ● Developed a responsive and dynamic Gmail clone using Reactjs, Tailwind CSS, and Framer Motion.
+ ● Implemented Firebase for user authentication and real-time database management.
+ ● Utilized Redux for efficient state management, ensuring a seamless UX across the application.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <a href="https://fullstack-g-mail-15.web.app">Live link</a>
